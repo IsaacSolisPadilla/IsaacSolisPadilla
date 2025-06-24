@@ -81,13 +81,13 @@
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=isaacsolispadilla-user&theme=dark&show_icons=true&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=IsaacSolisPadilla&theme=dark&show_icons=true&count_private=true" 
         alt="Isaac Solís GitHub Stats" 
         style="max-width:100%;" />
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=isaacsolispadilla-user&theme=dark&hide_border=false" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacSolisPadilla&theme=dark&hide_border=false" 
         alt="GitHub Streak Stats" 
         title="🔥 Get streak stats for your profile at git.io/streak-stats" 
         style="max-width:100%;" />
